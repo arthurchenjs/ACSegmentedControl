@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>StyleTriple</key>
+	<dict>
+		<key>normalImageLeft</key>
+		<string>segment_Left</string>
+		<key>selectedImageLeft</key>
+		<string>segment_LeftSelected</string>
+		<key>normalImageMiddle</key>
+		<string>segment_Middle</string>
+		<key>selectedImageMiddle</key>
+		<string>segment_MiddleSelected</string>
+		<key>normalImageRight</key>
+		<string>segment_Right</string>
+		<key>selectedImageRight</key>
+		<string>segment_RightSelected</string>
+	</dict>
+	<key>StyleUnified</key>
+	<dict>
+		<key>unifiedBackgroundImage</key>
+		<string>segmentUnifiedBg</string>
+		<key>unifiedSelectedImage</key>
+		<string>segmentUnifiedSelectedBg</string>
+	</dict>
+</dict>
+</plist>
